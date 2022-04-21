@@ -3,3 +3,9 @@ body * {
   background: hsla(210, 100%, 0.88) !important;
   outline: 0.25rem solid hsla(210, 100%, 0.88) !important;
 }
+
+.debug-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
